@@ -1,0 +1,1 @@
+export const atualizar_titulo = 'atualizar titulo'
